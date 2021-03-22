@@ -1,7 +1,3 @@
-// Name: Abdul-Rahman El-Saied
-// CIS 25 Lab 4 Question 4 Parts 1 and 2
-// Benjamin Allen
-// 12/12/19
 // This program defines the MarkovGenerator class.
 
 #ifndef MarkovGenerator_h
